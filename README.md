@@ -13,7 +13,6 @@ Uma landing page simples, feita com HTML, CSS e JavaScript puros — sem framewo
 ├── style.css        estilos da página
 ├── script.js        scripts (começa vazio)
 ├── README.md        este arquivo
-├── ROTEIRO.md       roteiro passo a passo da atividade
 ├── .gitignore       arquivos que o Git deve ignorar
 └── .gitattributes   padronização das quebras de linha
 ```
